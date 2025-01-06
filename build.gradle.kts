@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.dsl.KotlinVersion
 import tanvd.kosogor.proxy.publishJar
 
 group = "tanvd.konfy"
-version = "0.1.29"
+version = "0.1.30"
 
 plugins {
     id("tanvd.kosogor") version "1.0.22" apply true
